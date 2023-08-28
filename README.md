@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Shalu-Yadav0811/Shalu-Yadav0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Shalu Yadav</h1>
 <h3 align="center">A devoted computer science student from India</h3>
-
+<img align="right alt="Coding" width="400" src="![image](https://github.com/Shalu-Yadav0811/Shalu-Yadav0811/assets/143307492/0c5e0841-9eb0-4822-a37b-491ebb92dabb)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalu-yadav0811&label=Profile%20views&color=0e75b6&style=flat" alt="shalu-yadav0811" /> </p>
 
 <h3 align="left">Connect with me:</h3>
