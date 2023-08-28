@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Shalu Yadav</h1>
 <h3 align="center">A devoted computer science student from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Shalu-Yadav0811/Shalu-Yadav0811/raw/main/assets/143307492/5e07ee3f-b1a9-43ed-949e-6867168daee1.png">
+<img align="right" alt="Coding" width="300" src="![image](https://github.com/Shalu-Yadav0811/Shalu-Yadav0811/assets/143307492/6fde477b-b5a7-4c63-b973-9044056347ca)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalu-yadav0811&label=Profile%20views&color=0e75b6&style=flat" alt="shalu-yadav0811" /> </p>
 
